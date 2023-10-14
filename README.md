@@ -14,7 +14,7 @@ Description: In this project, I built a movie rating prediction system using Pyt
 
 ## Task_3. IRIS Flower Classification (Done)
 
-Description: The Iris Flower Classification project is a classic machine learning task. It involves using the Iris dataset to classify iris flowers into different species based on their sepal and petal measurements.
+Description: The IRIS Flower Classification project is a classic machine learning task. It involves using the Iris dataset to classify iris flowers into different species based on their sepal and petal measurements.
 
 ## Task_4. Sales Prediction using Python (Done)
 
